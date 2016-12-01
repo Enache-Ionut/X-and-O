@@ -1,5 +1,5 @@
 # X-and-O
 
-X and O Game in C++
+X and O Game in C language
 
 
